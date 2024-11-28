@@ -3,11 +3,7 @@ import { useState } from "react";
 import {header} from "./pages/header";
 
 function App() {
-  return (
-    <div className="App">
-      {header}
-    </div>
-  );
+  return 1;
 }
 
 export default App;
